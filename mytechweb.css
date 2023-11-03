@@ -1,0 +1,12 @@
+.navbar {
+  border-bottom: #2980b9 solid 5px;
+}
+
+#services .card:hover {
+  background: #2d3436;
+  color: #ffff;
+}
+body {
+  background: rgb(255,0,0);
+  background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,162,13,1) 53%, rgba(255,218,0,1) 100%);
+}
